@@ -5,3 +5,10 @@ function SkillsMember() {
         </div>
     );
     }
+function SkillsMemberDetail() {
+    return (
+        <div>
+        <h1>Skills Member Detail</h1>
+        </div>
+    );
+    }
